@@ -1,0 +1,23 @@
+.contenedor-principal {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  background-color: #000;
+  margin: 0 auto;
+  gap: 40px;
+  padding: 0 30px;
+  padding-top: 60px;
+  max-width: 1000px;
+}
+
+.contenedor-principal div {
+  width: 100%;
+}
+
+.principal-contenedor-recomendaciones {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+  width: 100%;
+}

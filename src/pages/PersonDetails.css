@@ -1,0 +1,12 @@
+.person-info {
+    /* background-color: rgb(51, 51, 51); */
+    color: white;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.info-text {
+    font-size: 30px;
+    color : white;
+    margin: 20px 0px;
+}

@@ -1,0 +1,34 @@
+.searches-container {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}
+
+.searches-container-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+  width: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.page-button {
+  background-color: #f50057;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.page-button:hover {
+  background-color: #ff5983;
+}
